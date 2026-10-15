@@ -106,6 +106,12 @@ plt.show()
 
 ---
 
+## OUTPUT
+
+<img width="537" height="599" alt="WhatsApp Image 2026-10-15 at 2 15 36 PM (1)" src="https://github.com/user-attachments/assets/4353387d-a226-476f-8e55-25fbcc35daea" />
+<img width="533" height="500" alt="WhatsApp Image 2026-10-15 at 2 15 36 PM" src="https://github.com/user-attachments/assets/5f773e0b-132a-465f-98df-ac1a0bf5e1dc" />
+
+
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
 - Attenuation values compared and bending loss characteristics plotted.  
